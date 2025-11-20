@@ -1,11 +1,13 @@
-<h2 align="left">Hi 👋! My name is Omar bin Ayob D. Cadingilan and I'm a Pennoyysss, from Philippines</h2>
+<h2 align="left">Hi 👋! </br>
+  My name is Omar bin Ayob D. Cadingilan </br>
+  I'm a Pennoyysss, from Philippines</h2>
 <p>This Project is Special to comemorate our 10th Monthsarry of my Girl so yeah not romantic but cool</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Momo90029&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Momo90029&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
