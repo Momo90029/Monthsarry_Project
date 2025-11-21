@@ -11,7 +11,7 @@ const LETTER_CONTENT = `Lalangg,
 Happy 10th monthsary to us.
 I can’t believe how fast time has passed, yet every moment with you still feels new, warm, and special. These ten months have been filled with a lot of memories laughter, lessons, and comfort that I’ll always treasure. 
 
-Thank you for your patience, your honesty, your trust, and the little things you do that makes me who i am. Thank you for choosing me, for staying with me for the rest 10 months, and for letting me love you in the best ways I know how. 
+Thank you for your patience, your honesty, your trust, and the little things you do that makes me who i am. Thank you for choosing me, for staying with me for the past 10 months, and for letting me love you in the best ways I know how. 
 
 Even though sometimes mag away jud tang duha you still choose to be my company, im sorry, but if ever di na jud ka nako i understand maybe its the best way to take a space na lng jud.
 
