@@ -21,7 +21,7 @@ Here’s to our 10th month with you.
 I love you lang. 
 
 Sincerly yours,
-Lalang;
+Lalang`;
 
 const LoveLetterModal: React.FC<LoveLetterModalProps> = ({ isOpen, onClose }) => {
   const [isEnvelopeOpen, setIsEnvelopeOpen] = useState(false);
